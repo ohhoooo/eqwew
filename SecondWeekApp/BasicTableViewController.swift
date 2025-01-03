@@ -15,7 +15,7 @@ class BasicTableViewController: UITableViewController {
 //            tableView.reloadData()
 //        }
 //    }
-    
+    //
     // 원래는 Outlet을 다 연결해야 하지만, 지금은 애플이 미리 좀 해놔서 안해도 됨 ex. view 처럼
     // UITableViewController는 UIViewController를 상속받고 있기 때문에 viewDidLoad가 존재
     override func viewDidLoad() {
