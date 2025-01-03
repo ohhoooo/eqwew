@@ -19,7 +19,6 @@ class NumberViewController: UIViewController {
         setViewBackground()
         
         
-        
         // UserDefaults에 저장된 데이터 가져오기
         let result = UserDefaults.standard.string(forKey: "number")
         
